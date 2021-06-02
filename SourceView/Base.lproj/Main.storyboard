@@ -666,7 +666,7 @@
             <objects>
                 <windowController storyboardIdentifier="WindowController" id="B8D-0N-5wS" userLabel="WindowController" customClass="WindowController" customModule="SourceView" customModuleProvider="target" sceneMemberID="viewController">
                     <window key="window" identifier="SourceView" title="SourceView" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" frameAutosaveName="SourceView" animationBehavior="default" tabbingIdentifier="SourceView" id="IQv-IB-iLA">
-                        <windowStyleMask key="styleMask" titled="YES" miniaturizable="YES" resizable="YES"/>
+                        <windowStyleMask key="styleMask" titled="YES" miniaturizable="YES" resizable="YES" fullSizeContentView="YES"/>
                         <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
                         <rect key="contentRect" x="65" y="641" width="700" height="300"/>
                         <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1027"/>
